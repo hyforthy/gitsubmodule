@@ -1,0 +1,3 @@
+[submodule "golangmod1"]
+	path = golangmod1
+	url = https://github.com/hyforthy/golangmod.git
